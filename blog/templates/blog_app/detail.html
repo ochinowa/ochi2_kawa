@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h1>detail page</h1>
+<hr>
+{% if post.image %}
+ <img src="{{ post.image.url }}">
+{% endif %}
+<h4>タイトル：{{ post.title }}</h4>
+<p>内容：{{ post.text }}</p>
+
+<!--<button><a href="{% url 'blog_app:edit' post_id=post.id %}">編集</a></button>-->
+<!--<button><a href="{% url 'blog_app:delete' post_id=post.id %}">削除</a></button>-->
+
+<div id="like">
+   {% include 'blog_app/like.html' %}
+</div>
+
+<div class="">
+ {% include 'blog_app/comment.html' %}
+</div>
+
+<div class="">
+ {% include 'blog_app/comment.html' %}
+</div>
+
+ {% if request.user == post.user %}
+   <a href="{% url 'blog_app:edit' post_id=post.id %}"><button type="button" class="btn btn-outline-primary">編集</button></a>
+   <a href="{% url 'blog_app:delete' post_id=post.id %}"><button type="button" class="btn btn-outline-danger">削除</button></a>
+ {% endif %}
+
+{% endblock %}
