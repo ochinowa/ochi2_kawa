@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c5d4757-a514-46f2-b05b-10e0b1005c56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/media/images/bg_pattern1.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/media/images/bg_pattern1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/media/images/bg_pattern2.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/media/images/bg_pattern2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/media/images/bg_pattern_wave1.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/media/images/bg_pattern_wave1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/media/images/mountain_wave1.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/media/images/mountain_wave1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/static/css/element.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/css/element.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +22,20 @@
     <splitter split-orientation="horizontal" split-proportion="0.55759597">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="233">
-                  <caret line="93" column="42" selection-start-line="93" selection-start-column="42" selection-end-line="93" selection-end-column="42" />
+                <state relative-caret-position="93950">
+                  <caret line="9564" column="33" selection-start-line="9564" selection-start-column="33" selection-end-line="9564" selection-end-column="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/blog/blog/settings.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="319">
+                  <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
                 </state>
               </provider>
             </entry>
@@ -46,20 +62,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/blog/static/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="466">
-                  <caret line="168" column="13" selection-start-line="168" selection-start-column="13" selection-end-line="168" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="184">
-                  <caret line="8" selection-end-line="8" selection-end-column="9" />
+                <state relative-caret-position="351">
+                  <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -67,8 +74,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/blog/static/css/reset.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="414">
-                  <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+                <state relative-caret-position="115">
+                  <caret line="5" column="11" selection-end-line="113" />
                 </state>
               </provider>
             </entry>
@@ -76,8 +83,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/blog/static/css/element.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="160448">
-                  <caret line="6976" column="18" selection-start-line="6976" selection-start-column="18" selection-end-line="6976" selection-end-column="18" />
+                <state relative-caret-position="64791">
+                  <caret line="2817" column="20" selection-start-line="2817" selection-start-column="20" selection-end-line="2817" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -88,36 +95,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>bd_b_wt1</find>
-      <find>ft_size5</find>
-      <find>content:</find>
-      <find>no</find>
-      <find>ct1_b</find>
-      <find>fly</find>
-      <find>no1</find>
-      <find>ft_size10</find>
-      <find>&quot;t3&quot;</find>
-      <find>kasumi</find>
-      <find>ft_size15</find>
+      <find>mg_t20</find>
+      <find>p_bu</find>
+      <find>q_i</find>
+      <find>TN</find>
+      <find>tn</find>
+      <find>abc</find>
+      <find>mg_t-</find>
+      <find>blu4</find>
+      <find>ochi</find>
+      <find>_wt</find>
+      <find>scro</find>
+      <find>text-sha</find>
+      <find>text-s</find>
+      <find>scroll</find>
+      <find>repeat</find>
       <find>ct2</find>
-      <find>川</find>
-      <find>img_rd8</find>
-      <find>DC_img2</find>
-      <find>&quot;t&quot;</find>
-      <find>bd_b_wt3</find>
-      <find>p_day_wrapper</find>
-      <find>bd_arnd_wt</find>
-      <find>.t</find>
-      <find>banner6_img1</find>
-      <find>radius</find>
-      <find>ge_ct2</find>
+      <find>half</find>
+      <find>info</find>
+      <find>bg_pattern2</find>
       <find>blu</find>
-      <find>banner6_img2</find>
-      <find>ct1_c</find>
       <find>map</find>
-      <find>t::b</find>
-      <find>d_copy2</find>
-      <find>ct2::</find>
+      <find>kasumi</find>
+      <find>p_da</find>
+      <find>kawa</find>
+      <find>report</find>
+      <find>ct1</find>
+      <find>img_rd5</find>
+      <find>inner_left</find>
+      <find>stat</find>
+      <find>static_</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -131,14 +138,15 @@
       <list>
         <option value="$PROJECT_DIR$/blog/templates/blog_app/index.html" />
         <option value="$PROJECT_DIR$/blog/templates/footer.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/blog/static/css/element.css" />
         <option value="$PROJECT_DIR$/blog/templates/base.html" />
         <option value="$PROJECT_DIR$/blog/static/css/style.css" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/blog/blog/settings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -152,32 +160,25 @@
         <subPane>
           <expand>
             <path>
-              <item name="ochi2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ochi2" type="462c0819:PsiDirectoryNode" />
+              <item name="ochi2_kawa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ochi2_kawa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ochi2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ochi2" type="462c0819:PsiDirectoryNode" />
+              <item name="ochi2_kawa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ochi2_kawa" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ochi2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ochi2" type="462c0819:PsiDirectoryNode" />
+              <item name="ochi2_kawa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ochi2_kawa" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ochi2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ochi2" type="462c0819:PsiDirectoryNode" />
+              <item name="ochi2_kawa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ochi2_kawa" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ochi2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ochi2" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="blog_app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,7 +226,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.122621566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18957011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -258,6 +259,16 @@
     <entry file="file://$PROJECT_DIR$/blog/templates/header.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/media/images/item_img_r1.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -272,41 +283,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="115">
+          <caret line="5" column="11" selection-end-line="113" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/css/element.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160448">
-          <caret line="6976" column="18" selection-start-line="6976" selection-start-column="18" selection-end-line="6976" selection-end-column="18" />
+        <state relative-caret-position="64791">
+          <caret line="2817" column="20" selection-start-line="2817" selection-start-column="20" selection-end-line="2817" selection-end-column="20" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/media/images/item_img_r1.gif">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="93" column="42" selection-start-line="93" selection-start-column="42" selection-end-line="93" selection-end-column="42" />
+        <state relative-caret-position="93950">
+          <caret line="9564" column="33" selection-start-line="9564" selection-start-column="33" selection-end-line="9564" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/blog/blog/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="168" column="13" selection-start-line="168" selection-start-column="13" selection-end-line="168" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="319">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
         </state>
       </provider>
     </entry>

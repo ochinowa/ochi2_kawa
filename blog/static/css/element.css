@@ -1467,7 +1467,7 @@ body {
 }
 
 .ft_size15 {
-  font-size: 11rem !important;
+  font-size: 9rem !important;
 }
 
 .ft_size20 {
@@ -2798,7 +2798,7 @@ body {
   border-radius: 3px !important;
 }
 
-.img_rd5, .img_rd5 img {
+.img_rd5 {
   border-radius: 5px !important;
 }
 
@@ -2815,7 +2815,7 @@ body {
 }
 
 .img_rd24 {
-  border-radius: 24px;
+  border-radius: 18px;
 }
 
 .img_rd3 {
@@ -6510,7 +6510,7 @@ body {
 }
 
 .mg_t-10 {
-  margin-top: -10em !important;
+  margin-top: -15em !important;
 }
 
 .mg_t0 {
@@ -7023,7 +7023,7 @@ body {
 }
 
 .bd_arnd_green1 {
-  border: solid 1px #00592d !important;
+  border: solid 1px rgb(68	,172	,107	) !important;
 }
 
 .bd_arnd_green2 {
@@ -7782,7 +7782,7 @@ body {
 
   html {
       /* font-size: 14px !important; */
-      font-size: 90% !important;
+      font-size: 85% !important;
   }
 
 

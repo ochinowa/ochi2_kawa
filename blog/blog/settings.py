@@ -122,6 +122,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = (os.path.join(BASE_DIR, "static"),)
+# STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 # 画像の表示/出力に必要
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
