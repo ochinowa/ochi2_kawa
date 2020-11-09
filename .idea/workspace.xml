@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c5d4757-a514-46f2-b05b-10e0b1005c56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/media/images/bg_pattern1.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/media/images/bg_pattern1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/media/images/bg_pattern2.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/media/images/bg_pattern2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/media/images/bg_pattern_wave1.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/media/images/bg_pattern_wave1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/media/images/mountain_wave1.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/media/images/mountain_wave1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/css/element.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/css/element.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,20 +14,20 @@
     <splitter split-orientation="horizontal" split-proportion="0.55759597">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="93950">
-                  <caret line="9564" column="33" selection-start-line="9564" selection-start-column="33" selection-end-line="9564" selection-end-column="33" />
+                <state relative-caret-position="322">
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/blog/blog/settings.py">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/blog/static/css/all.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="319">
-                  <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+                <state relative-caret-position="233">
+                  <caret line="10647" lean-forward="true" selection-end-line="10697" />
                 </state>
               </provider>
             </entry>
@@ -65,8 +57,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/blog/static/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="351">
-                  <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+                <state relative-caret-position="184">
+                  <caret line="2655" column="16" lean-forward="true" selection-end-line="2676" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -74,8 +66,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/blog/static/css/reset.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="115">
-                  <caret line="5" column="11" selection-end-line="113" />
+                <state relative-caret-position="69">
+                  <caret line="3" column="8" lean-forward="true" selection-end-line="113" />
                 </state>
               </provider>
             </entry>
@@ -83,8 +75,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/blog/static/css/element.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="64791">
-                  <caret line="2817" column="20" selection-start-line="2817" selection-start-column="20" selection-end-line="2817" selection-end-column="20" />
+                <state relative-caret-position="667">
+                  <caret line="7897" lean-forward="true" selection-start-line="2" selection-end-line="7897" />
                 </state>
               </provider>
             </entry>
@@ -140,9 +132,10 @@
         <option value="$PROJECT_DIR$/blog/templates/footer.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/blog/static/css/element.css" />
-        <option value="$PROJECT_DIR$/blog/templates/base.html" />
         <option value="$PROJECT_DIR$/blog/static/css/style.css" />
         <option value="$PROJECT_DIR$/blog/blog/settings.py" />
+        <option value="$PROJECT_DIR$/blog/static/css/all.css" />
+        <option value="$PROJECT_DIR$/blog/templates/base.html" />
       </list>
     </option>
   </component>
@@ -179,6 +172,26 @@
               <item name="ochi2_kawa" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="blog_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ochi2_kawa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ochi2_kawa" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ochi2_kawa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ochi2_kawa" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ochi2_kawa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ochi2_kawa" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="iconfont" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,7 +239,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18957011" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22410148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -283,38 +296,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/blog/blog/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        <state relative-caret-position="319">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="11" selection-end-line="113" />
+        <state relative-caret-position="69">
+          <caret line="3" column="8" lean-forward="true" selection-end-line="113" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/css/element.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64791">
-          <caret line="2817" column="20" selection-start-line="2817" selection-start-column="20" selection-end-line="2817" selection-end-column="20" />
+        <state relative-caret-position="667">
+          <caret line="7897" lean-forward="true" selection-start-line="2" selection-end-line="7897" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="2655" column="16" lean-forward="true" selection-end-line="2676" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="10647" lean-forward="true" selection-end-line="10697" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93950">
-          <caret line="9564" column="33" selection-start-line="9564" selection-start-column="33" selection-end-line="9564" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/blog/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+        <state relative-caret-position="322">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
